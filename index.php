@@ -67,6 +67,7 @@ $movies04 = new Movie("Il grande Gatsby", "Baz Luhrmann", "Drammatico");
             <div class="container-album">
                 <div class="album-box">
                     
+                
                     <div class="box">
                         <img src="http://aforismi.meglio.it/img/film/Le_Iene_film.jpg" class="box-img" alt="">
                         <p class="text-title"><?php echo $movies01->getTitle() ?></p>
